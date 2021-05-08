@@ -1,0 +1,36 @@
+.movie-item-description{
+    background-color: #CE1212 ;
+    color: #1b1717;
+    margin: 10px;
+    border: 3px solid #810000;
+}
+img{
+    border: 4px solid #CE1212
+}
+.movie-title{
+    background-color: #CE1212;
+    color: #1b1717;
+    border: 3px solid #810000;
+    padding: 5px;
+    font-size: x-large;
+}
+li{
+   list-style: none;
+   display: inline;
+   background-color: #CE1212;
+   color:#1b1717;
+   padding:5px;
+   border: 3px solid #810000;
+   margin-top: 8px;
+}
+.back-to-list{
+    margin: 20px;
+    padding: 10px;
+}
+.p-genres{
+    background-color: #CE1212 ;
+    color: #1b1717;
+    padding: 6px;
+    margin: 8px;
+    border: 3px solid #810000;
+}

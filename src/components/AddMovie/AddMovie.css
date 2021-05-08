@@ -1,0 +1,51 @@
+.movieAdd{
+    display:block;
+}
+
+div{
+    margin: 10px;
+}
+
+label{
+    background-color:#CE1212;
+    color: #1b1717;
+    border: 3px solid #810000;
+}
+input{
+    margin: 5px;
+    background-color: #EEEBDD;
+    border: 3px solid #810000;
+}
+.movie-description{
+    margin: 2px;
+}
+textarea{
+    background-color: #EEEBDD;
+    border: 3px solid #810000;
+}
+select{
+    background-color: #EEEBDD;
+    border: 3px solid #810000;
+}
+button{
+    padding: 8px;
+    border-radius: 12px;
+    border: 3px solid #810000;
+    background-color: #CE1212;
+    margin: 25px;
+}
+button:hover{
+    background-color: #EEEBDD;
+}
+
+.form{
+    text-align: center;
+}
+form{
+    display: inline-block;
+    width: 500px;
+    text-align: left;
+    background-color: #CE1212;
+    color: #1b1717;
+    padding: 20px;
+}
